@@ -1,0 +1,354 @@
+areacode,areaname,percsmoking
+S13002476,Dyce / Bucksburn / Danestone,1.295E1
+S13002477,Bridge of Don,7.14E0
+S13002478,Kingswells / Sheddocksley,1.621E1
+S13002479,Northfield,2.661E1
+S13002480,Hilton / Stockethill,1.704E1
+S13002481,Tillydrone / Seaton / Old Aberdeen,2.066E1
+S13002482,Midstocket / Rosemount,8.58E0
+S13002483,George St / Harbour,1.211E1
+S13002484,Lower Deeside,7.1E0
+S13002485,Hazlehead / Ashley / Queens Cross,3.05E0
+S13002486,Airyhall / Broomhill / Garthdee,8.98E0
+S13002487,Torry / Ferryhill,1.785E1
+S13002488,Kincorth / Loirston,1.502E1
+S13002489,Banff and District,2.339E1
+S13002490,Troup,2.331E1
+S13002491,Fraserburgh and District,2.206E1
+S13002492,Central Buchan,1.353E1
+S13002493,Peterhead North and Rattray,2.688E1
+S13002494,Peterhead South and Cruden,22
+S13002495,Turriff and District,1.495E1
+S13002496,Mid Formartine,7.13E0
+S13002497,Ellon and District,1.043E1
+S13002498,West Garioch,1.316E1
+S13002499,Inverurie and District,1.192E1
+S13002500,East Garioch,3.93E0
+S13002501,Westhill and District,4.64E0
+S13002502,"Huntly, Strathbogie and Howe of Alford",1.294E1
+S13002503,"Aboyne, Upper Deeside and Donside",1.171E1
+S13002504,Banchory and Mid Deeside,6.69E0
+S13002505,North Kincardine,4.78E0
+S13002506,Stonehaven and Lower Deeside,4.93E0
+S13002507,Mearns,1.109E1
+S13002508,Kirriemuir and Dean,1.953E1
+S13002509,Brechin and Edzell,2.006E1
+S13002510,Forfar and District,2.925E1
+S13002512,Carnoustie and District,1.21E1
+S13002513,Arbroath West and Letham,1.691E1
+S13002514,Arbroath East and Lunan,2.895E1
+S13002515,Montrose and District,2.332E1
+S13002516,South Kintyre,2.061E1
+S13002517,Kintyre and the Islands,1.667E1
+S13002518,Mid Argyll ,1.479E1
+S13002519,Oban South and the Isles,1.621E1
+S13002520,Oban North and Lorn,1.365E1
+S13002521,Cowal,1.301E1
+S13002522,Dunoon,2.576E1
+S13002523,Isle of Bute,1.495E1
+S13002524,Lomond North,2.194E1
+S13002525,Helensburgh Central,20
+S13002526,Helensburgh and Lomond South,1.018E1
+S13002527,Clackmannanshire West,1.945E1
+S13002528,Clackmannanshire North,2.226E1
+S13002529,Clackmannanshire Central,2.399E1
+S13002530,Clackmannanshire South,2.164E1
+S13002531,Clackmannanshire East,2.054E1
+S13002532,Stranraer and North Rhins,3.007E1
+S13002533,Wigtown West,2.304E1
+S13002534,Mid Galloway,2.569E1
+S13002535,Dee,1.269E1
+S13002536,Castle Douglas and Glenkens,1.631E1
+S13002537,Abbey,1.674E1
+S13002538,North West Dumfries,2.652E1
+S13002539,Mid and Upper Nithsdale,3.168E1
+S13002540,Lochar,1.308E1
+S13002541,Nith,2.006E1
+S13002542,Annandale South,2.587E1
+S13002543,Annandale North,1.824E1
+S13002544,Annandale East and Eskdale,1.875E1
+S13002545,Strathmartine,2.896E1
+S13002546,Lochee,2.974E1
+S13002547,West End,1.381E1
+S13002548,Coldside,2.704E1
+S13002549,Maryfield,1.997E1
+S13002551,East End,3.514E1
+S13002552,The Ferry,6.92E0
+S13002553,Annick,1.447E1
+S13002554,Kilmarnock North,2.035E1
+S13002555,Kilmarnock West and Crosshouse,1.634E1
+S13002556,Kilmarnock East and Hurlford,2.471E1
+S13002557,Kilmarnock South,3.145E1
+S13002558,Irvine Valley,2.351E1
+S13002559,Ballochmyle,3.002E1
+S13002560,Cumnock and New Cumnock,2.84E1
+S13002561,Doon Valley,3.103E1
+S13002562,Milngavie,7.67E0
+S13002563,Bearsden North,6.82E0
+S13002564,Bearsden South,6.71E0
+S13002565,Campsie and Kirkintilloch North,1.22E1
+S13002566,Bishopbriggs North and Torrance,7.72E0
+S13002568,Lenzie and Kirkintilloch South,7.9E0
+S13002569,Kirkintilloch East and Twechar,1.922E1
+S13002570,Musselburgh West,1.424E1
+S13002571,Musselburgh East and Carberry,2.459E1
+S13002572,Preston / Seton / Gosford,2.08E1
+S13002573,Fa'side,2.014E1
+S13002574,North Berwick Coastal,7.92E0
+S13002575,Haddington and Lammermuir,1.635E1
+S13002576,Dunbar and East Linton,1.338E1
+S13002577,"Neilston, Uplawmoor and Newton Mearns North",8.58E0
+S13002578,Barrhead,2.363E1
+S13002579,Giffnock and Thornliebank,6.35E0
+S13002580,"Netherlee, Stamperland and Williamwood",5.11E0
+S13002581,Newton Mearns South,3.74E0
+S13002582,"Busby, Clarkston and Eaglesham",7.1E0
+S13002583,Almond,9.32E0
+S13002584,Pentland Hills,1.431E1
+S13002585,Drum Brae / Gyle,9.67E0
+S13002586,Forth,2.142E1
+S13002587,Inverleith,6.44E0
+S13002588,Corstorphine / Murrayfield,6.33E0
+S13002589,Sighthill / Gorgie,2.139E1
+S13002590,Colinton / Fairmilehead,1.288E1
+S13002591,Fountainbridge / Craiglockhart,4.12E0
+S13002592,Meadows / Morningside,1.49E0
+S13002593,City Centre,5.43E0
+S13002594,Leith Walk,7.01E0
+S13002595,Leith  ,1.09E1
+S13002596,Craigentinny / Duddingston,1.095E1
+S13002597,Southside / Newington,5.93E0
+S13002598,Liberton / Gilmerton,1.97E1
+S13002599,Portobello / Craigmillar,1.791E1
+S13002600,"Barraigh, Bhatarsaigh, Eirisgeigh agus Uibhist a Deas",1.148E1
+S13002601,Beinn na Foghla agus Uibhist a Tuath,1.343E1
+S13002602,Na Hearadh agus Ceann a Deas nan Loch,7.5E0
+S13002603,Sgir'Uige agus Ceann a Tuath nan Loch,8.33E0
+S13002604,Sgire an Rubha,1.522E1
+S13002605,Steòrnabhagh a Deas,20
+S13002606,Steòrnabhagh a Tuath,1.429E1
+S13002607,Loch a Tuath,8.75E0
+S13002608,An Taobh Siar agus Nis,3.57E0
+S13002609,Bo'ness and Blackness,1.127E1
+S13002610,Grangemouth,2.697E1
+S13002611,Denny and Banknock,1.393E1
+S13002612,"Carse, Kinnaird and Tryst",1.395E1
+S13002613,Bonnybridge and Larbert,1.235E1
+S13002614,Falkirk North,1.903E1
+S13002615,Falkirk South,1.767E1
+S13002616,Lower Braes,9.05E0
+S13002617,Upper Braes,1.268E1
+S13002618,West Fife and Coastal Villages,1.792E1
+S13002619,Dunfermline North,2.204E1
+S13002620,Dunfermline Central,1.625E1
+S13002621,Dunfermline South,1.359E1
+S13002622,Rosyth,2.195E1
+S13002623,Inverkeithing and Dalgety Bay,1.416E1
+S13002624,The Lochs,3.208E1
+S13002625,Cowdenbeath,2.671E1
+S13002626,Lochgelly and Cardenden,2.731E1
+S13002627,"Burntisland, Kinghorn and Western Kirkcaldy",1.818E1
+S13002628,Kirkcaldy North,2.04E1
+S13002629,Kirkcaldy Central,3.122E1
+S13002630,Kirkcaldy East,2.802E1
+S13002631,Glenrothes West and Kinglassie,2.648E1
+S13002632,"Glenrothes North, Leslie and Markinch",2.454E1
+S13002633,Glenrothes Central and Thornton,2.489E1
+S13002634,Howe of Fife and Tay Coast,1.444E1
+S13002635,Tay Bridgehead,9.9E0
+S13002636,St Andrews,1.009E1
+S13002637,East Neuk and Landward,1.65E1
+S13002638,Cupar,1.771E1
+S13002639,"Leven, Kennoway and Largo",2.312E1
+S13002640,"Buckhaven, Methil and Wemyss Villages",3.75E1
+S13002641,Linn,2.051E1
+S13002642,Newlands / Auldburn,1.784E1
+S13002643,Greater Pollok,2.251E1
+S13002644,Craigton,2.347E1
+S13002645,Govan,2.151E1
+S13002646,Pollokshields,6.46E0
+S13002647,Langside,9.99E0
+S13002648,Southside Central,1.432E1
+S13002649,Calton,2.135E1
+S13002650,Anderston / City,8.78E0
+S13002651,Hillhead,6.53E0
+S13002652,Partick West,8.76E0
+S13002653,Garscadden / Scotstounhill,1.958E1
+S13002654,Drumchapel / Anniesland,2.57E1
+S13002655,Maryhill / Kelvin,1.641E1
+S13002656,Canal,1.976E1
+S13002657,Springburn,1.795E1
+S13002658,East Centre,1.929E1
+S13002659,Shettleston,2.004E1
+S13002660,Baillieston,1.876E1
+S13002662,"North, West and Central Sutherland",1.765E1
+S13002663,Thurso,2.248E1
+S13002664,Wick,3.203E1
+S13002665,Landward Caithness,9.41E0
+S13002666,East Sutherland and Edderton,2.025E1
+S13002667,"Wester Ross, Strathpeffer and Lochalsh",1.535E1
+S13002668,Cromarty Firth,3.25E1
+S13002669,Tain and Easter Ross,2.393E1
+S13002670,Dingwall and Seaforth,2.582E1
+S13002671,Black Isle,1.274E1
+S13002672,Eilean a' Chèo,1.295E1
+S13002673,Caol and Mallaig,2.092E1
+S13002674,Aird and Loch Ness,1.342E1
+S13002675,Inverness West,1.52E1
+S13002676,Inverness Central,2.86E1
+S13002677,Inverness Ness-Side,1.732E1
+S13002678,Inverness Millburn,1.383E1
+S13002679,Culloden and Ardersier,1.826E1
+S13002680,Nairn,2.337E1
+S13002681,Inverness South,7.38E0
+S13002682,Badenoch and Strathspey,1.209E1
+S13002683,Fort William and Ardnamurchan,1.988E1
+S13002684,Inverclyde East,2.274E1
+S13002685,Inverclyde East Central,2.141E1
+S13002686,Inverclyde North,1.629E1
+S13002687,Inverclyde South,2.361E1
+S13002688,Inverclyde West,1.145E1
+S13002689,Inverclyde South West,1.701E1
+S13002690,Penicuik,1.978E1
+S13002691,Bonnyrigg,1.521E1
+S13002692,Dalkeith,2.075E1
+S13002693,Midlothian West,1.78E1
+S13002694,Midlothian East,2.519E1
+S13002695,Midlothian South,2.714E1
+S13002696,Speyside Glenlivet,1.474E1
+S13002697,Keith and Cullen,2.018E1
+S13002698,Buckie,2.63E1
+S13002699,Fochabers Lhanbryde,1.808E1
+S13002700,Heldon and Laich,1.618E1
+S13002701,Elgin City North,1.908E1
+S13002702,Elgin City South,2.079E1
+S13002703,Forres,1.532E1
+S13002704,Irvine West,3.286E1
+S13002705,Irvine East,2.548E1
+S13002706,Kilwinning,2.319E1
+S13002707,Saltcoats and Stevenston,3.284E1
+S13002708,Ardrossan and Arran,2.531E1
+S13002709,Dalry and West Kilbride,2.322E1
+S13002710,Kilbirnie and Beith,2.506E1
+S13002711,North Coast and Cumbraes,1.511E1
+S13002712,Kilsyth,1.815E1
+S13002713,Cumbernauld North,6.8E0
+S13002714,Cumbernauld South,1.738E1
+S13002715,"Abronhill, Kildrum and the Village",1.681E1
+S13002717,Coatbridge North and Glenboig,1.631E1
+S13002718,Airdrie North,1.946E1
+S13002719,Airdrie Central,1.971E1
+S13002720,Coatbridge West,2.318E1
+S13002721,Coatbridge South,1.934E1
+S13002722,Airdrie South,2.105E1
+S13002723,Fortissat,2.66E1
+S13002724,Thorniewood,2.118E1
+S13002725,Bellshill,2.261E1
+S13002726,Mossend and Holytown,2.506E1
+S13002727,Motherwell West,2.177E1
+S13002728,Motherwell North,1.846E1
+S13002729,Motherwell South East and Ravenscraig,2.065E1
+S13002730,Murdostoun,1.721E1
+S13002731,Wishaw,2.127E1
+S13002732,Kirkwall East,1.343E1
+S13002733,Kirkwall West and Orphir,1.429E1
+S13002734,Stromness and South Isles,1.311E1
+S13002735,West Mainland,5.56E0
+S13002736,"East Mainland, South Ronaldsay and Burray",4.88E0
+S13002737,North Isles,8.89E0
+S13002738,Carse of Gowrie,8.71E0
+S13002739,Strathmore,1.385E1
+S13002740,Blairgowrie and Glens,1.853E1
+S13002741,Highland,1.966E1
+S13002742,Strathtay,1.299E1
+S13002743,Strathearn,1.618E1
+S13002744,Strathallan  ,1.73E1
+S13002745,Kinross-shire,1.393E1
+S13002746,Almond and Earn,7.53E0
+S13002747,Perth City South,8.19E0
+S13002748,Perth City North,2.678E1
+S13002749,Perth City Centre,2.572E1
+S13002750,Renfrew North,1.898E1
+S13002751,Renfrew South & Gallowhill,2.057E1
+S13002752,Paisley East & Ralston,1.561E1
+S13002753,Paisley North West,2.273E1
+S13002754,Paisley South,1.442E1
+S13002755,Paisley South West,2.367E1
+S13002756,"Johnstone South, Elderslie & Howwood",2.061E1
+S13002757,"Johnstone North, Kilbarchan & Lochwinnoch",1.646E1
+S13002758,"Houston, Crosslee & Linwood",1.516E1
+S13002759,"Bishopton, Bridge of Weir & Langbank",9.56E0
+S13002760,Erskine & Inchinnan,1.425E1
+S13002761,Tweeddale West,1.13E1
+S13002762,Tweeddale East,1.121E1
+S13002763,Galashiels and District,1.958E1
+S13002764,Selkirkshire,1.568E1
+S13002765,Leaderdale and Melrose,7.73E0
+S13002766,Mid Berwickshire,1.818E1
+S13002767,East Berwickshire,2.404E1
+S13002768,Kelso and District,1.557E1
+S13002769,Jedburgh and District,1.751E1
+S13002770,Hawick and Denholm,2.929E1
+S13002771,Hawick and Hermitage,2.092E1
+S13002772,North Isles,9.52E0
+S13002773,Shetland North,1.017E1
+S13002774,Shetland West,7.77E0
+S13002775,Shetland Central,1.165E1
+S13002776,Shetland South,8.16E0
+S13002777,Lerwick North,2.414E1
+S13002778,Lerwick South,2.284E1
+S13002779,Troon,1.698E1
+S13002780,Prestwick,1.287E1
+S13002781,Ayr North,3.507E1
+S13002782,Ayr East,1.637E1
+S13002783,Ayr West,1.451E1
+S13002784,Kyle,1.982E1
+S13002785,"Maybole, North Carrick and Coylton",1.97E1
+S13002786,Girvan and South Carrick,3.374E1
+S13002787,Clydesdale West,1.308E1
+S13002788,Clydesdale North,2.056E1
+S13002789,Clydesdale East,1.479E1
+S13002790,Clydesdale South,2.315E1
+S13002791,Avondale and Stonehouse,1.773E1
+S13002792,East Kilbride South,1.762E1
+S13002793,East Kilbride Central South,1.555E1
+S13002794,East Kilbride Central North,1.445E1
+S13002795,East Kilbride West,3.52E0
+S13002796,East Kilbride East,1.394E1
+S13002797,Rutherglen South,2.225E1
+S13002798,Rutherglen Central and North,2.268E1
+S13002799,Cambuslang West,1.632E1
+S13002800,Cambuslang East,1.105E1
+S13002801,Blantyre  ,2.025E1
+S13002802,Bothwell and Uddingston,1.094E1
+S13002803,Hamilton North and East,1.452E1
+S13002804,Hamilton West and Earnock,2.047E1
+S13002805,Hamilton South,1.641E1
+S13002806,Larkhall  ,2.16E1
+S13002807,Trossachs and Teith,1.349E1
+S13002808,Forth and Endrick,1.067E1
+S13002809,Dunblane and Bridge of Allan,6.47E0
+S13002810,Castle  ,1.905E1
+S13002811,Stirling West,1.01E1
+S13002812,Stirling East,1.515E1
+S13002813,Bannockburn,1.827E1
+S13002814,Lomond  ,2.193E1
+S13002815,Leven  ,2.006E1
+S13002816,Dumbarton,1.847E1
+S13002817,Kilpatrick,2.212E1
+S13002818,Clydebank Central,2.74E1
+S13002819,Clydebank Waterfront,2.268E1
+S13002820,Linlithgow,1.058E1
+S13002821,"Broxburn, Uphall and Winchburgh",1.975E1
+S13002822,Livingston North,1.781E1
+S13002823,Livingston South,2.202E1
+S13002824,East Livingston and East Calder,2.392E1
+S13002825,Fauldhouse and the Breich Valley,2.898E1
+S13002826,Whitburn and Blackburn,3.057E1
+S13002827,Bathgate,1.665E1
+S13002828,Armadale and Blackridge,1.935E1
+S13002829,Monifeith and Sidlaw,7.33E0
+S13002830,North East,2.345E1
+S13002832,Strathkelvin,1.07E1
+S13002833,Bishopbriggs South,8.62E0
+S13002834,North East,1.768E1

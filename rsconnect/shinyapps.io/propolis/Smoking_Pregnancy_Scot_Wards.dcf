@@ -1,0 +1,10 @@
+name: smoking_pregnancy_scot_wards
+title: Interactive Scottish Deprivation
+account: propolis
+server: shinyapps.io
+appId: 140823
+bundleId: 784704
+url: https://propolis.shinyapps.io/Smoking_Pregnancy_Scot_Wards/
+when: 1491898992.32619
+asMultiple: FALSE
+asStatic: FALSE
