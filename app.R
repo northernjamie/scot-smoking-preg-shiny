@@ -1,4 +1,4 @@
-## Choropleth map app ##
+## Example Shiny ScotGov ##
 
 # Load the necessary packages
 library(dplyr) ; library(rgdal) ; library(leaflet) ; library(raster) ; library(SPARQL) ; library(DT)
@@ -47,8 +47,6 @@ ui <- shinyUI(fluidPage(
            br(),
            div(h3("Smoking in Pregnancy")),
            div(h4("The percentage of women who were current smokers at the time of first booking with maternity services, by Scottish Ward")),
-           div(h4(textOutput("title"), align = "center"), style = "color:black"),
-           div(h5(textOutput("period"), align = "center"), style = "color:black"),
            br())),
   fluidRow(
     column(7, offset = 1,
@@ -103,7 +101,6 @@ server <- (function(input, output, session) {
                       "<h1>",scotward$percsmoking,"%</h1>")
       
       leafletProxy("map", data = scotward) %>%
-        addProviderTiles("CartoDB.Positron") %>% 
         clearShapes() %>% 
         clearControls() %>% 
         addPolygons(data = scotward, fillColor = ~qpal(percsmoking), fillOpacity = 0.7, 
@@ -113,10 +110,6 @@ server <- (function(input, output, session) {
                   title = paste0("Antenatal Smoking Rates"))
   })
 
-    observe({
-      input$reset_button
-      leafletProxy("map") %>% setView(lat = lat, lng = lng, zoom = zoom)
-    })
 
 })
 
