@@ -1,7 +1,7 @@
 ## Example Shiny ScotGov ##
 
 # Load the necessary packages
-library(dplyr) ; library(rgdal) ; library(leaflet) ; library(raster) ; library(SPARQL) ; library(DT)
+library(rgdal) ; library(leaflet) ; library(SPARQL) ; library(DT)
 
 
 # Load the smoking data
