@@ -33,11 +33,6 @@ smokpreg <- qd$results
 
 smokpreg$areacode <- substr(smokpreg$areacode,2,10)
 
-
-
-#smokpreg <- read.csv("smokpregscotward2013.csv", header = T) %>% 
-  #as.data.frame()
-
 # Load the ward boundary vector layer 
 scotward <- readOGR("scotwardsmin.geojson", "OGRGeoJSON")
 
